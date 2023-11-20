@@ -1,0 +1,9 @@
+1. FINISH CHECKOUT. Add a link to confirmation screen & gratitude modal 
+
+2. Add Sign-in/Sign-out state with dummy credentials, lock off checkout section if not signed in.
+
+4. Mobile view ===> add "Shop" button to fill up negative space. White button with black text
+
+3. Grammar & spelling
+
+4.Mobile View ===> "Care" page fix layout & margins

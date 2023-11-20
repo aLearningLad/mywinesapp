@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0;
+}
+
+.mywallpaper {
+  background-image: url("../public/assets/hero-image.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.topEnding {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 34%,
+    rgba(232, 243, 243, 1) 100%
+  );
+}
+
+.servicesBg {
+  background: linear-gradient(
+    179deg,
+    rgba(232, 243, 243, 1) 0%,
+    rgba(255, 255, 255, 0.55) 100%
+  );
+}
+
+.pickedLower {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 29%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.footerbg {
+  background: linear-gradient(
+    90deg,
+    rgba(32, 103, 120, 1) 0%,
+    rgba(22, 24, 66, 1) 100%
+  );
+}
+
+.cardHover:hover {
+  box-shadow: 3px 6px 12px black;
+}
+
+::-webkit-scrollbar {
+  background: linear-gradient(
+    176deg,
+    rgba(236, 240, 240, 1) 0%,
+    rgba(237, 210, 255, 1) 100%
+  );
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: black;
+}
+
+.cobg {
+  background: linear-gradient(
+    322deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(228, 254, 255, 1) 100%
+  );
+}
+
+.shopButton {
+  animation: shopNow;
+}
+
+.serviceHover:hover {
+  box-shadow: 4px 7px 16px black;
+}
+
+.modalShadow {
+  box-shadow: 4px 9px 18px rgba(120, 200, 200);
+}

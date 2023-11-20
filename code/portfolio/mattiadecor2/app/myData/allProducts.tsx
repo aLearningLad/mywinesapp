@@ -1,0 +1,73 @@
+export const allProducts = [
+  {
+    id: 1011,
+    title: "Hygge Hugger",
+    desc: "A comfortable haven for relaxation, our Cozy Corner Sofa brings warmth and style to any living space.",
+    info: "Crafted with care, our Cozy Corner Sofa is designed for ultimate comfort and relaxation. Its plush cushions and soft upholstery make it the perfect spot to unwind after a long day. Made from sustainably sourced, high-quality materials, this sofa reflects our commitment to eco-friendly practices. The solid wood frame provides stability and durability. The upholstery fabric is sourced locally, supporting our community's artisans. Create a cozy atmosphere in your home with this timeless piece that seamlessly blends with Hygge decor principles.",
+    price: 25000,
+    img: "/assets/fn2.jpg",
+    displayedPrice: "R25,000",
+    cardWidth: "800px",
+    cardHeight: "600px",
+  },
+
+  {
+    id: 1021,
+    title: "Nordic Knit Armchair",
+    desc: "Embrace comfort with our Nordic Knit Armchair, featuring a stylish knit pattern and exceptional coziness.",
+    info: "Our Nordic Knit Armchair is a charming addition to your Hygge-inspired living space. The hand-knit pattern on the chair's upholstery adds a touch of Scandinavian flair. Sink into its oversized, cushioned seat and enjoy hours of relaxation. Crafted with sustainable materials, the frame is made from reclaimed wood, and the upholstery is woven from organic cotton. By sourcing locally and supporting artisans, we prioritize ethical production methods. Bring warmth and character to your home with this inviting armchair that embodies the essence of Hygge living.",
+    price: 19200,
+    img: "/assets/fn1.jpg",
+    displayedPrice: "R19,200",
+    cardWidth: "500px",
+    cardHeight: "600px",
+  },
+
+  {
+    id: 1031,
+    title: "Rustic Wooden Coffee Table",
+    desc: "Elevate your living room with our Rustic Wooden Coffee Table, a centerpiece that exudes natural beauty.",
+    info: "The Rustic Wooden Coffee Table is a testament to the beauty of nature. Handcrafted from reclaimed oak, this table showcases the raw, unrefined beauty of wood grain. Each piece is unique, bearing the marks of its previous life. The table's design incorporates hidden storage, adding practicality to its aesthetic charm. We take pride in sourcing reclaimed wood, reducing our environmental impact and preserving forests. This table harmoniously combines functionality and Hygge-inspired design, making it a focal point in your cozy living room.",
+    price: 16000,
+    img: "/assets/fn3.jpg",
+    displayedPrice: "R16,000",
+    cardWidth: "900px",
+    cardHeight: "600px",
+  },
+
+  {
+    id: 1071,
+    title: "Serenity Swing Chair",
+    desc: "Find serenity in our Swing Chair, a hanging cocoon of tranquility with a minimalist aesthetic.",
+    info: "The Serenity Swing Chair is an oasis of calm and relaxation. Crafted with precision and simplicity in mind, this chair's unique design invites you to unwind. Its organic cotton cushions provide a comfortable embrace as you gently sway. Sourced from sustainable cotton farms, the fabric embodies our commitment to eco-conscious choices. The chair's durable frame is constructed from powder-coated steel, ensuring longevity. Create a personal retreat in any corner of your home with this serene and minimalist Hygge-inspired swing chair.",
+    price: 22000,
+    img: "/assets/fn4.jpg",
+    displayedPrice: "R22,000",
+    cardWidth: "1360px",
+    cardHeight: "650px",
+  },
+
+  {
+    id: 1121,
+    title: "Hygge Haven Bed",
+    desc: "Transform your bedroom into a Hygge Haven with our cozy and stylish bed featuring natural materials.",
+    info: "Our Hygge Haven Bed is a sanctuary for peaceful sleep and relaxation. Crafted from solid walnut wood, it exudes warmth and durability. The natural wood finish highlights the beauty of the grain, adding character to your bedroom. The headboard is upholstered in organic linen, sourced from sustainable flax farms. We prioritize responsible sourcing, supporting local communities and reducing our carbon footprint. With its minimalist design and quality craftsmanship, this bed embodies the essence of Hygge living and provides a comfortable and tranquil space for your nights.",
+    price: 34000,
+    img: "/assets/fn5.jpg",
+    displayedPrice: "R34,000",
+    cardWidth: "810px",
+    cardHeight: "500px",
+  },
+
+  {
+    id: 3001,
+    title: "Nordic Nesting Tables",
+    desc: "Add versatility to your space with our Nordic Nesting Tables, featuring Scandinavian-inspired design and functionality.",
+    info: "Our Nordic Nesting Tables offer both style and versatility. Designed with the principles of Scandinavian minimalism in mind, these tables are perfect for compact living spaces. Crafted from FSC-certified oak wood, the tables boast sustainable sourcing practices. They are finished with a natural oil that enhances the wood's beauty. The set includes three different-sized tables that can be nested together or used individually, providing flexibility for various purposes. Embrace the beauty of simplicity and practicality in your home with these Hygge-inspired nesting tables from Mattia's Decor.",
+    price: 21500,
+    img: "/assets/style2.jpg",
+    displayedPrice: "R21,500",
+    cardWidth: "400px",
+    cardHeight: "800px",
+  },
+];
